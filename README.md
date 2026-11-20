@@ -17,7 +17,7 @@ This system solves that bottleneck by measuring real-time vehicle density across
 
 ## 📂 Project Documentation & Media
 * **Full Project Report:** [View PDF Report](docs)
-* **Video Demonstration:** [Watch System Walkthrough]((https://drive.google.com/file/d/15IVnpSH51FrOGG6u1i-EfTBYHr95rVaP/view?usp=sharing))
+* **Video Demonstration:** [Watch System Walkthrough](https://drive.google.com/file/d/15IVnpSH51FrOGG6u1i-EfTBYHr95rVaP/view?usp=sharing)
 
 ---
 
