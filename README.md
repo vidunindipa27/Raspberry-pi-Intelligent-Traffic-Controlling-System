@@ -12,8 +12,6 @@ Traditional traffic lights operate on fixed-time, pre-programmed cycles that all
 
 This system solves that bottleneck by measuring real-time vehicle density across intersection approaches and dynamically optimizing signal phases to minimize overall vehicle waiting time.
 
-![Hardware Prototype](docs/your-image-filename.jpg)
-*(Tip: Replace the filename above with the photo of your 3D-printed 9-LED prototype or block diagram inside your `docs` folder)*
 
 ---
 
